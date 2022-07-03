@@ -1,16 +1,11 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Join Freelance University and Begin Building Your Business!</title>
-</head>
 
+<html>
 <body>
 <center>
 	<h1 style="font-family:montserrat;">Ready to Start a Flexible Business?</h1>
 	<h2 style="font-family:montserrat;"><a href="https://aff.freelanceu.com/14599/51866" target="_blank">Check out Freelance University!</a></h2>
 </center>
-!(/img/freelance_university.png)
+![Check out Freelance Unviersity](https://freelanceu1.github.io/freelance_university.png)
 	<font size="+2" family=sans serif> <br><br>
 	<p style="font-family:montserrat;">	If you are serious about starting or growing your freelance or VA business right now, then 2022 is just about the BEST time do it!  </p> 
  
