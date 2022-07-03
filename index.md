@@ -10,7 +10,7 @@
 	<h1 style="font-family:montserrat;">Ready to Start a Flexible Business?</h1>
 	<h2 style="font-family:montserrat;"><a href="https://aff.freelanceu.com/14599/51866" target="_blank">Check out Freelance University!</a></h2>
 </center>
-<img src="img/freelance_university.png" alt="Freelance University" align=right width=600 HSPACE=50 VSPACE=50/>
+!(/img/freelance_university.png)
 	<font size="+2" family=sans serif> <br><br>
 	<p style="font-family:montserrat;">	If you are serious about starting or growing your freelance or VA business right now, then 2022 is just about the BEST time do it!  </p> 
  
